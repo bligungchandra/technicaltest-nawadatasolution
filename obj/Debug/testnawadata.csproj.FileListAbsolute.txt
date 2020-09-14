@@ -1,0 +1,7 @@
+D:\Lamaran Pekerjaan\Nawa Data\technical\testnawadata\bin\Debug\testnawadata.exe.config
+D:\Lamaran Pekerjaan\Nawa Data\technical\testnawadata\bin\Debug\testnawadata.exe
+D:\Lamaran Pekerjaan\Nawa Data\technical\testnawadata\bin\Debug\testnawadata.pdb
+D:\Lamaran Pekerjaan\Nawa Data\technical\testnawadata\obj\Debug\testnawadata.csproj.CoreCompileInputs.cache
+D:\Lamaran Pekerjaan\Nawa Data\technical\testnawadata\obj\Debug\testnawadata.exe
+D:\Lamaran Pekerjaan\Nawa Data\technical\testnawadata\obj\Debug\testnawadata.pdb
+D:\Lamaran Pekerjaan\Nawa Data\technical\testnawadata\obj\Debug\testnawadata.csprojAssemblyReference.cache
